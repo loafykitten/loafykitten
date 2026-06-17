@@ -1,9 +1,9 @@
 # The Dossier
 Hiii! I'm Ember, a senior engineer who's also a silly little gal~  
 
-I specialize in mobile & game server development. With a decade+ of experience in the industry, I've worked on projects from B2B software to video games. My current role is Senior Mobile Engineer.
+I specialize in mobile & full-stack development with 10+ years in the industry. I've worked on projects from B2B aviation software to AI tooling to video game related projects. I love working on projects that own full systems from end to end: architecture, delivery, CI/CD, release health, and maintenance.
 
-When I'm not working or studying, I'm probably doing development, producing lofi music, or gaming. All live as loafykitten! 
+When I'm not working or studying, I'm probably doing development, producing lofi music, or gaming. All live as caffeineplz!
 
 My gaming tastes run toward MMOs like FFXIV, RuneScape, Mabinogi. I'm also into retro gaming (N64/PS1 through Xbox 360/PS3 eras), rhythm games like Clone Hero and Fortnite Festival, and RPGs like Baldur's Gate and classic BioWare!
 
